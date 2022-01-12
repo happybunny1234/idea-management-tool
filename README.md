@@ -1,25 +1,10 @@
-# Getting Started with Create React App
+### About the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With this app you can add insights dynamically and group them into clusters by dragging the highlights with your cursor.
+Each insight is displayed as sticky notes(aka highlights) with different colours generated randomly. You can also move highlights between different clusters, edit them, delete them and save them in the browser's localStorage.
 
-## Available Scripts
+### to run the code using 'npm':
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Use 'npm start' to run the app in development mode. 
+This app uses local host memory to store the insights.
+Open [http://localhost:3000](http://localhost:3000) to view the app.
